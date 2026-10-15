@@ -6,11 +6,11 @@ Canada is the current sabbatical chapter, beginning February 2026. Brisbane rema
 
 ## Confirmed travel history
 
-Japan first trip 2013; repeat trips to Tokyo and Osaka, dates not precisely published. Dubai/UAE and France in 2015. Fiji and Thailand in 2021–22. Germany, France, Switzerland, Prague/Czechia and Spain in the larger 2023–24 trip. No claim that every earlier trip included their daughter. Canada currently. Country landing pages are travel-history notes, not invented guides.
+Japan first trip 2013; repeat trips in 2016–2019, particularly Tokyo and Osaka, with further visits continuing through 2026, confirmed by Michael. Dubai/UAE and France in 2015. Fiji and Thailand in 2021–22. Germany, France, Austria, Switzerland, Prague/Czechia and Spain in the larger 2023–24 trip. No claim that every earlier trip included their daughter. Canada currently. Country landing pages are travel-history notes, not invented guides.
 
-## Clarification still needed
+## Clarifications confirmed
 
-The answer says Japan '2016 to 209'; likely 2019, but omitted until confirmed. The European list includes 'australia'; do not silently substitute Austria. Australia remains described as home, with that European stop left out pending confirmation.
+Michael confirmed Austria in the 2023–24 European route and Japan repeats in 2016–2019, with visits continuing through 2026. Do not infer an annual visit or the exact date or route of the 2026 Japan trip. Australia remains home.
 
 ## Costs and access checked against primary operators
 

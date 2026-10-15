@@ -6,7 +6,7 @@ We’re Michael and Edlyn. Brisbane is home, and we’re currently in Canada wit
 
 Our sabbatical started with a Christmas conversation with family in Kelowna. Someone suggested taking a break together and looking at Canada’s International Experience Canada program. We were tired of the nine-to-five and needed a breather. What began as a suggestion gradually became a plan, and we started the break in February 2026.
 
-Travel had been part of our lives long before that. Our first trip was Japan in 2013. Dubai and France followed in 2015, and we returned to Tokyo and Osaka several times. We visited Fiji and Thailand across 2021–22, then spent part of 2023–24 on a larger European adventure, including Germany, France, Switzerland, Prague and Spain.
+Travel had been part of our lives long before that. Our first trip was Japan in 2013. Dubai and France followed in 2015, and we returned to Japan several times during 2016–2019, particularly around Tokyo and Osaka. We kept going back after that too, with visits continuing through 2026. We visited Fiji and Thailand across 2021–22, then spent part of 2023–24 on a larger European adventure, including Germany, France, Austria, Switzerland, Prague and Spain.
 
 When we were younger, it was two backpacks and a lot of moving between places. We wanted to see as much as we could. Once our daughter arrived, we began choosing a central base and exploring from there. We researched an area more carefully and learned to let a day be smaller than we’d originally planned if that suited us better.
 

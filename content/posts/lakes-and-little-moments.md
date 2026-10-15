@@ -23,7 +23,7 @@ The decision to take a break had begun with family in Kelowna at Christmas. Some
 
 We were tired of the nine-to-five and needed a break. By February 2026, the idea had become a sabbatical. We hadn't suddenly discovered that we liked travelling. We'd been doing that for years. What had changed was wanting more time for it as a family, rather than fitting another trip into the edges of our usual routine.
 
-Our first trip had been Japan in 2013. Dubai and France followed in 2015, and we returned to Japan several times, particularly around Tokyo and Osaka. Later came Fiji and Thailand, then a larger European adventure across 2023 and 2024. Canada was another part of that history. This website would eventually hold those earlier trips too, alongside the places we were exploring now.
+Our first trip had been Japan in 2013. Dubai and France followed in 2015, and we returned to Japan several times during 2016–2019, particularly around Tokyo and Osaka. Those weren’t our last visits either; we kept returning through 2026. Later came Fiji and Thailand, then a larger European adventure across 2023 and 2024, including Austria. Canada was another part of that history. This website would eventually hold those earlier trips too, alongside the places we were exploring now.
 
 The difference this time was the space we'd allowed ourselves. Six months around the Rockies gave us a base for ordinary family life as well as sightseeing. We didn't have to treat every outing as our only chance to see the area. We still needed to plan, but we could choose a pace that worked for the three of us.
 
