@@ -1,92 +1,109 @@
 ---
-title: 'Lake Louise & Moraine Lake, without the booking muddle'
+title: What we’d budget for Lake Louise and Moraine Lake
 category: Guide
 country: Canada
 region: Canadian Rockies
-summary: Park passes, lake shuttles and the summer lift explained simply, with booking links and the family details worth checking before you go.
+summary: The shuttle we used, the lunch bill we remembered and a worked family budget
+  for the lakes and summer lift.
 cover: /media/lake-louise.jpg
 cover_position: 50% 62%
 date: 2026-10-15
 published: true
 seasonal: true
 ---
-We love the photographs from this part of Canada. The booking process deserves a little attention too. The most useful distinction is that **park admission, transport to the lakes and a sightseeing lift ticket are different things**. Booking one doesn't automatically cover the others.
 
-This is our practical summer and early-autumn planning guide for the lakes and Lake Louise Resort. We keep the steps separate so you can choose the right arrangement for your family, rather than buy a bundle you don't understand.
+We had spent about six months based in Canmore when we organised our lakes and resort bookings on 6 October 2026. That was close to the end of the operating season. We got the bookings we needed, used the Parks Canada shuttle and enjoyed the outings, but I came away thinking we should have sorted that part much earlier.
 
-## Check the season before anything else
+The other number that stayed with me was lunch: about **C$60 for sandwiches and coffee at the Fairmont Lake Louise**. It was a simple stop, and it still made a noticeable addition to the day. That's why this guide includes the costs around the attractions as well as the tickets. We wanted something another family could actually use when deciding what to allow for.
 
-**Planning update · checked 15 October 2026:** the regular 2026 Parks Canada lake-shuttle season ended on **12 October**. The resort's main summer-gondola ticket page listed **11 October** as its final 2026 operating day. This is not a winter itinerary or a statement that these services are running now.
+**Prices below are in Canadian dollars and were checked on 15 October 2026.** The C$60 lunch is our remembered spending. The other figures are published planning prices, not our personal receipts. They'll need checking again for your travel dates.
 
-For a future trip, use the operator calendars linked below. We are not assuming the same dates, prices or release schedule for 2027. Lake Louise can be visited in other seasons, but Moraine Lake access and the summer lift need their own seasonal plan.
+## Start with the season
 
-## Three things to budget for
+The regular 2026 Parks Canada lake shuttles finished on **12 October**. Lake Louise Resort's summer sightseeing lift finished on **11 October**. These summer services have ended for 2026. Lake Louise can be visited in other seasons, but this guide doesn't describe winter access to Moraine Lake or a winter chairlift outing.
 
-| Booking | What it covers | What it doesn't replace |
-| --- | --- | --- |
-| Banff park admission | Your national-park visit | A shuttle reservation or resort lift ticket |
-| Parks Canada lake shuttle | Reserved first departure, both lakes via the connector, return to Park and Ride | Park admission or sightseeing lift |
-| Lake Louise summer lift | The resort's sightseeing ride under its ticket conditions | A Parks Canada shuttle booking |
+For a future summer visit, check the new operating calendars before committing to the rest of the plan. We'd start thinking about the main reservations around four months ahead, then book as soon as the appropriate release allowed. That would have felt much more comfortable than arranging everything near the end of the season as we did.
 
-The dates and age categories matter. A child can be free for park entry and still need a booked shuttle place or a different ticket for another operator.
+There wasn't a single ticket that automatically covered every part of the outing. The national-park entry, lake transport and resort sightseeing were separate things to account for. Keeping them separate on the budget made the planning much clearer.
 
-## Book the Parks Canada lake shuttle
+## How we'd organise the lake booking
 
-1. Open the [Parks Canada reservation service](https://reservation.pc.gc.ca/) and find the Lake Louise and Moraine Lake shuttle product.
-2. Set up your account before a busy release, rather than during checkout.
-3. Choose the operating date, everybody travelling, your departure window and your **first lake**.
-4. Follow the first destination on the reservation when you board. The Lake Connector then lets you visit the other lake.
-5. Keep your confirmation available offline and read the instructions attached to your booking.
+The official place to reserve the Parks Canada service is the [Parks Canada booking page](https://reservation.pc.gc.ca/). Set up your account before the release, know the date you want and include everyone who will travel. Choose the first lake and departure window carefully, because that is the initial journey attached to the reservation.
 
-For the completed 2026 season, the main release was 15 April at 8 am Mountain Time. Further seats were released at 8 am Mountain Time two days before travel. That is a useful explanation of how the system worked, not a guaranteed release time for a future season. Use the published dates on the booking page when your own trip comes around.
+In 2026, the main release opened on 15 April at 8 am Mountain Time, with more seats released at 8 am two days before departure. A late release offered another opportunity, but we'd prefer to secure the main reservation earlier where possible. Future seasons may use different dates, so put the actual announced release in your calendar.
 
-We would choose a departure that leaves time for breakfast, getting ready and the journey to check-in. A very early start is only a benefit if it works for the people actually travelling.
+Our advice to another family would be to choose a workable start rather than the earliest departure you could find. Breakfast, getting ready and reaching check-in all had to fit around the time. We'd rather leave a little space than begin a lake day already trying to catch up.
 
-## Go to the right departure point
+## The departure point matters
 
-For the regular daytime Parks Canada service, check in at **Lake Louise Park and Ride, at Lake Louise Ski Resort, 1 Whitehorn Road**. Don't head to the Lake Louise lakeshore and expect to start that reservation there. The separate Alpine Start product has different arrangements.
+For the regular daytime shuttle, check in at **Lake Louise Park and Ride at the ski resort, 1 Whitehorn Road**. It isn't the lakeshore. Arrive during the reserved window, get checked in and keep the boarding pass available for the later shuttle journeys.
 
-Check in during the departure window on your reservation. The standard lake ticket includes parking at Park and Ride, the first lake, the Lake Connector and the return. Keep the boarding pass you receive; the connector needs it. It is not a second timed reservation.
+The regular reservation includes the trip to the first lake, the connector between the lakes and the return to Park and Ride. Parking there is included too. That is different from driving up to Lake Louise's separate lakeshore car park. The Alpine Start service has different arrangements, so read the instructions for the actual product you've booked.
 
-Our practical rule is to leave space for queues and keep the day's return arrangements somewhere easy to find. A timetable tells you when a service operates; it doesn't promise there will be no wait.
+Moraine Lake Road isn't open to ordinary private-car access. A shuttle or another authorised transport option needs to be part of the plan. We used Parks Canada's service; we wouldn't build a family's morning around turning up in a car and hoping to find a way in.
 
-## Can you just drive to the lakes?
+The connector can involve a wait. Leave some flexibility between lakes and around the return, especially with a child. We'd keep the return arrangements handy rather than rely on remembering everything from the booking screen.
 
-**Moraine Lake Road is closed to ordinary personal-vehicle access.** Book an authorised transport option rather than plan to arrive by private car and find a parking space. Limited exceptions are not a general visitor parking plan.
+## The ticket prices to put in your budget
 
-Lake Louise has lakeshore parking, but it is limited and can fill very early. For a relaxed family day, we prefer the certainty of a transport plan over making the whole morning depend on finding a space. A national-park pass doesn't reserve parking.
+These are the published reference rates we checked, before any personal discounts or passes you may already hold.
 
-If you are staying in Banff without a car, look at [Roam Transit](https://roamtransit.com/). Check the current Lake Louise route and the precise pass conditions for any Lake Connector access. A standard bus fare and a qualifying reservable pass are not automatically interchangeable. Commercial shuttles also have their own departure points, inclusions and cancellation terms.
-
-## What the published prices currently say
-
-All amounts here are **Canadian dollars**, checked on 15 October 2026. They are planning references, not a quote for the next season or a record of what our family paid.
-
-| Item | Published reference price |
-| --- | --- |
-| Banff daily adult admission | $12.25 |
-| Banff daily family/group admission | $24.50 |
+| Item | Planning price in C$ |
+| --- | ---: |
+| Park admission, adult day | 12.25 |
+| Park admission, family/group day | 24.50 |
 | Park admission, age 17 and under | Free |
-| Parks Canada lake shuttle, adult 18–64 | $12.75 |
-| Parks Canada lake shuttle, youth 17 and under | $4 |
-| Online shuttle reservation fee | $3.50 per reservation |
+| Lake shuttle, adult 18–64 | 12.75 |
+| Lake shuttle, age 17 and under | 4.00 |
+| Shuttle booking fee, one online reservation | 3.50 |
+| Discovery Pass, family/group | 167.50 |
 
-Park entry and shuttle service use different charging rules. The Canada Strong Pass free-admission period ended on 7 September 2026; don't assume free park admission applies to your travel dates. Check the [current Banff fees](https://parks.canada.ca/pn-np/ab/banff/visit/tarifs-fees) and [park-pass options](https://parks.canada.ca/pn-np/ab/banff/visit/passer-passes) before paying.
+For **two adults and one child charged the listed youth shuttle fare**, the lake booking would be **C$33**: two adult fares, one youth fare and one online reservation fee. That is a planning example. Choose the fare category that applies to your own child.
 
-## Book the summer lift separately
+If you were paying for a family/group park day separately, adding **C$24.50** would make the lake transport and park-entry allowance **C$57.50**. With a valid pass already covering entry, that day's marginal cost would be different. Avoid paying again for something your existing pass covers.
 
-The Lake Louise Resort sightseeing lift is a different experience from standing at the lakeshore. Start with the [summer-lift ticket page](https://www.skilouise.com/tickets-passes/summer-tickets/summer-gondola-lift-tickets/), choose the correct operating season and age categories, and read the weather and refund conditions before checkout.
+For a longer stay, the published family/group Discovery Pass price was worth comparing with daily entry. Seven C$24.50 days would total C$171.50, just above the C$167.50 pass price. That simple comparison still depended on which days actually required paid admission and the pass conditions. Accommodation in Canmore wasn't itself park admission.
 
-The published 2026 window rates were $65 for an adult, $29 for ages 13–17 and $16 for ages 6–12, before 5% GST; ages five and under were listed free. The page advertised an online discount. Compare the actual checkout total for your party rather than assume a family package is cheaper for three people. Follow the receipt's QR-code instructions for ticket collection.
+## Book the resort lift as its own experience
 
-For summer sightseeing, children **under 106 cm must ride in an enclosed gondola with an adult**. Children under 12 require an adult companion. Check the current rules with staff even if an open chair looks like the appealing choice. The right ride is the one suitable for your child. Wildlife sightings are a possibility, never an inclusion you can book.
+Use the [summer-lift booking page](https://www.skilouise.com/tickets-passes/summer-tickets/summer-gondola-lift-tickets/) for the resort ride. The 2026 window prices were **C$65 for adults**, **C$29 for ages 13–17** and **C$16 for ages 6–12**; children five and under were listed free. Those prices excluded **5% GST**. An online discount was advertised, so compare the actual checkout total rather than assuming the ticket-window rate is the best option.
 
-Some resort products combine transport and sightseeing, but check the actual available product. Don't assume every lake is included, or that a resort shuttle and Parks Canada's service share tickets.
+We enjoyed riding up towards the bistro as a family. I remembered the wildlife and flora during the ride as well as the view from above. The lift added a different experience to the lakes, which was why we'd allow proper time for it rather than squeeze it into a spare hour.
 
-## The small family details we wouldn't skip
+Check the child requirements before choosing the ride. Children under 106 cm must use an enclosed gondola with an adult, and children under 12 need an adult companion. Use your child's height and the current operating rules when making that decision.
 
-Bring layers, water, snacks and shoes suited to uneven ground. Have booking confirmations and essential directions saved before you leave. At Moraine Lake, plan to be self-sufficient rather than rely on mobile reception or finding supplies beside the lake.
+Two adults and a child aged 6–12 would total **C$153.30 at the stated window rates including GST**. Two adults with a child five or under would total **C$136.50**, and with a teenager aged 13–17, **C$166.95**. These are ticket calculations, not our spending. A family package or eligible discount could change the result.
 
-Keep children close near water and on uneven viewpoints, and use signed routes. A lakeshore visit can be enough; there is no requirement to add a long hike. Check current trail and weather information before deciding on anything more ambitious.
+Because we'd been staying in Canmore, the published Bow Valley locals offer also caught our attention. It was worth asking Guest Services what identification and eligibility they required. We haven't treated that discount as automatic or used it in the example totals.
 
-Give the lakes and the lift enough time. Our [two-day itinerary](/stories/two-days-lake-louise/) keeps the two lakes together on one day and gives the resort its own day. That leaves room for the kind of travel we enjoy most: organised enough to work, flexible enough to feel like time away.
+## A realistic two-day activity allowance
+
+For a model family of two adults and a child aged 6–12, spread over two separate paid park days, this is one transparent starting point:
+
+| Component | C$ |
+| --- | ---: |
+| One lake-shuttle reservation, including the booking fee | 33.00 |
+| Two family/group park days | 49.00 |
+| Summer lift at window rates, including GST | 153.30 |
+| Lunch allowance based on what we spent at the Fairmont | 60.00 |
+| **Example total** | **295.30** |
+
+This covers the listed activities and one lunch only. It leaves out accommodation, getting to the area and other meals. A meal at the resort bistro would need its own allowance. If your park admission was already covered, the same example would fall to **C$246.30**. Discounts on the lift could reduce it further.
+
+The value of an example like this is being able to see its assumptions. You could replace our lunch allowance with packed food, use your actual child ticket category and remove park entry if an existing pass covered it. That would be much more useful than treating a single total as the cost for every family.
+
+## The C$60 lesson
+
+We bought sandwiches and coffee at the Fairmont and remembered spending about C$60. It was a lovely setting for a food stop, but a simple lunch still had a price worth considering. We'd plan for it deliberately next time, or bring more food with us and decide which paid stop mattered most.
+
+Food was also about making the day easier with a child. A sensible ticket budget didn't help much if we hadn't considered when we would eat. We'd allow room in both the spending and the timetable for that, rather than attach lunch to whatever minutes remained between attractions.
+
+## What could surprise a first-time visitor
+
+The biggest surprise could be how much organisation a day at two lakes required. There was the reservation itself, a departure point away from the water and time spent moving between places. Once we'd accepted that structure, it was easier to give the scenery the attention we'd come for.
+
+We'd also save the essential confirmations offline, carry enough water and food for the plan, and have layers available. Moraine Lake isn't a place to assume reliable mobile service or a convenient tap. Check the facilities and conditions before setting out, especially if your child needs something particular during the day.
+
+Finally, don't assume wildlife is included in a lift ticket. We saw wildlife on our own ride and loved that part. The animals weren't something another visitor could reserve. Plan for the ride and view, then enjoy a sighting if it happens.
+
+Our [two-day plan](/stories/two-days-lake-louise/) puts the lakes together and gives the lift its own breathing room. The [journal](/stories/lakes-and-little-moments/) holds the memories behind it. We wanted this guide to make the practical side easier, with no course to buy before the useful information appeared.

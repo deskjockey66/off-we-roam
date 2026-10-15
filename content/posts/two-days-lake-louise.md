@@ -1,85 +1,95 @@
 ---
-title: 'Two days in the Rockies, at a family pace'
+title: How we’d spend two days around Lake Louise
 category: Itinerary
 country: Canada
 region: Canadian Rockies
-summary: One day for Moraine Lake and Lake Louise. One for the lift and the view. A flexible summer plan with space to enjoy being there.
+summary: A return-visit plan built from our time in the Rockies, with the lakes on
+  one day and the resort lift on the next.
 cover: /media/lake-louise-lift.jpg
 cover_position: 50% 54%
 date: 2026-10-15
 published: true
 seasonal: true
 ---
-This is the two-day version of the trip we would recommend: keep the lakes together, give the resort its own day, and stop trying to fit another destination into every spare hour. It connects the places from our journal without pretending there is one perfect timetable for every family.
 
-**This is a summer/early-autumn route.** Checked on 15 October 2026, the regular lake shuttles and the summer sightseeing lift had finished their 2026 seasons. Use future operating calendars before booking; these are suggested time blocks, not reservations or a winter access plan.
+We used a house in Canmore as our base for about six months in the Canadian Rockies. That gave us a way to explore without constantly moving accommodation, which suited us much better once we were travelling with our daughter. We could have a proper outing, or make a short trip away when a place needed more time.
 
-## Before the two days begin
+This is the **two-day plan we'd use for another visit to Moraine Lake, Lake Louise and the resort lift**. It draws on the experiences we actually had, including the Parks Canada shuttle, a roughly C$60 lunch at the Fairmont and the chairlift ride towards the bistro.
 
-Choose accommodation that works with your budget and departure point. We haven't added an accommodation review because we don't want to recommend a stay we haven't described. Plan how you will get to the Lake Louise area and leave enough travel time around the activities below.
+The regular lake shuttles and summer lift have finished for 2026. Use this as a summer or early-autumn plan, then check the operating dates for the year you're visiting. We secured our bookings on 6 October and came away wanting to organise that part much earlier next time.
 
-Book the lake transport first, then fit the rest around the departure window you actually secure. Arrange park admission and check the resort's separate summer-lift tickets. Our [ticket and access guide](/stories/lake-louise-moraine-guide/) explains the differences and links to the booking pages.
+## Before the two days
 
-## Day one · two lakes, one unhurried day
+We'd start planning the key tickets around four months ahead, then book when the announced release allowed. Having a preferred date wouldn't be enough on its own; we'd want a confirmed lake-shuttle reservation before treating the rest of the day as settled.
 
-### Breakfast and Park and Ride
+The main pieces would be lake transport, national-park admission where required and the resort's separate summer sightseeing ticket. Our [booking guide](/stories/lake-louise-moraine-guide/) has the steps and a worked cost example. Keeping the practical detail in one place would leave us freer to think about which pace suited the family.
 
-Start with breakfast and an organised day bag. We like a plan that doesn't depend on everybody being ready before they have properly woken up. Aim to reach the regular Parks Canada Park and Ride with a comfortable buffer for parking and check-in, within your booked window.
+We'd also decide what we wanted from lunch. Buying sandwiches and coffee at the Fairmont came to about C$60 on our visit. We'd either allow for a similar food stop or pack more food and use that money elsewhere. Knowing that before leaving would be easier than making every decision when we were already hungry.
 
-The first lake must match your booking. The order below starts at Moraine Lake; reverse the lakes if your reservation starts at Lake Louise. The point is to use the transport arrangement you have, rather than fight it to reproduce somebody else's photographs.
+## Day one: give the lakes the day
 
-### First lake · Moraine Lake
+### Leave the base with time to spare
 
-Make the view the main event. Take time near the shore and choose any viewpoint according to the conditions and everybody's ability. Uneven steps and exposed edges deserve attention, particularly with children. Keep to the signed route and let a short visit be a good visit if that is what suits your family.
+We'd work backwards from the booked departure window, allowing time to get ready, reach Park and Ride and check in. We wouldn't build the morning around an unverified drive time or assume arriving in the Lake Louise area meant we were already where the shuttle departed.
 
-We wouldn't add a long hike just because it appears on a list of things to do. The colour of the water and the mountain backdrop are already a lot to take in. Leave space for photographs, a pause and a snack without watching every minute.
+Our aim would be to begin the outing without turning the reservation into a race. Travelling with our daughter had taught us that every extra stop in a plan needed to justify itself. On this day, the lakes would be the main event.
 
-![Mountain reflections and clear water at Moraine Lake](/media/moraine-shore.jpg)
+### Start with the lake on your reservation
 
-### Middle of the day · connector and a proper pause
+We'd happily see Moraine Lake first, but the first journey would follow the destination actually booked. If that were Lake Louise, we'd reverse this part of the plan. There was no benefit in writing a beautiful itinerary that didn't match the ticket we could use.
 
-Use the included Lake Connector when you are ready for the other lake, and keep the boarding pass handy. Build in queue time. This is the natural place to be flexible rather than schedule a tightly timed lunch or another booking immediately afterwards.
+At Moraine Lake, we'd leave room to appreciate the outlook and the shore without promising a particular hike. Our photographs captured both the broad mountain view and the clear shallows. They were different ways of looking at the same place, and enough to make the stop feel worthwhile.
 
-Bring food that works for your family and follow the rules for storing it and disposing of waste. We would rather have an easy snack available than make the next part of the day depend on a particular café having space.
+![Mountain reflections and the clear water at Moraine Lake](/media/moraine-shore.jpg)
 
-### Second lake · Lake Louise
+The higher viewpoint involved uneven ground and steps. We'd judge it against the conditions and what was suitable for our daughter that day. Being there mattered more to us than insisting on a particular photograph if the route didn't suit.
 
-Keep the lakeshore walk as long or short as you need. There is plenty to appreciate without treating the visit as the beginning of a strenuous hike. Look across the water, enjoy the different perspective and give everyone a say in when it is time to head back.
+### Use the connector without crowding the middle of the day
 
-Return with a margin before the final service. Confirm that day's connector and Park and Ride return times with the operator; they are not necessarily the same. The successful end to this day is getting everyone back comfortably, not squeezing in one last photograph at the cost of the journey home.
+We'd treat the transfer between lakes as part of the outing, with space for a wait and a break. A connector didn't mean instant movement from one view to the next. That was an especially useful distinction when deciding how much else to add to the schedule.
 
-## Day two · above the valley
+We'd keep the boarding pass and return information accessible, then take the next part of the day as it came. The benefit of pairing the lakes was being able to see both within the same transport arrangement. The cost was that some of the day belonged to transport rather than standing beside the water.
 
-### Morning · check the lift, then head to the resort
+### Lake Louise and a food decision
 
-Check the weather and operating status before leaving. A booked sightseeing day still depends on mountain conditions. Take layers even when it feels warm lower down, and confirm which ride is suitable for your child. An enclosed cabin is the required option below the operator's height threshold.
+At Lake Louise, we'd leave time for the lakeshore and the long view towards the snow. The colour of the water had its own character after Moraine Lake. We didn't need to add a canoe hire or a long walk to make it feel like a worthwhile second stop.
 
-Give the lift and viewpoint a generous part of the day rather than placing them between the lakes and another distant stop. We like having time to enjoy the ride itself. Seeing the landscape open out is part of the experience, not simply transport to a photograph.
+This would be the place to use the food plan we'd made earlier. If we wanted the Fairmont stop again, we'd allow for the roughly C$60 we'd remembered spending on sandwiches and coffee, while recognising that the menu and prices could change. Otherwise, packed food could make the day's budget easier to manage.
 
-### Late morning · the outlook
+We'd leave a sensible buffer for the return rather than use the final possible minutes at the water. Getting everyone back comfortably was part of a successful family day too. With a Canmore base, we didn't need the evening to become another sightseeing programme.
 
-At the top, take in the valley, the mountain layers and Lake Louise in the distance. Use the permitted viewing areas and follow staff guidance about trails and wildlife. Seeing an animal would be a lovely addition, but we wouldn't make it the condition for a successful visit.
+## Day two: the resort lift, with room to enjoy it
 
-The Lake Louise frame is a nice place to mark the moment. The wider view and seasonal colour are worth their own pause too. You don't need an ambitious walking route to appreciate the change in perspective from the lakeshore.
+### Check the actual operation before setting out
 
-![The Lake Louise viewpoint frame and mountain landscape](/media/lake-louise-lift.jpg)
+The summer sightseeing lift was a separate booking from the lake shuttle. We'd check the day's operating information and the weather, then choose the ride arrangement appropriate for our child. We'd also check whether any food stop we wanted was open during our visit.
 
-### Afternoon · leave something unscheduled
+The family memory behind this part of the plan was riding up towards the bistro together. I enjoyed seeing wildlife during the ride, and the flora and views were amazing. That was why I would give the lift its own place in the itinerary. It deserved more than a rushed addition after a full day at the lakes.
 
-Have lunch when it suits you, descend with time to spare and keep the afternoon open. Weather, energy and the next day's travel can decide what happens after that. An unfilled part of an itinerary is useful space, especially with a child.
+### Let the ride be part of the experience
 
-If weather changes, follow the ticket's actual amendment or refund terms rather than assume you can move it freely. Swap the two days only if your transport and lift bookings allow it. A flexible mindset helps; it doesn't replace the conditions attached to a reservation.
+We'd leave time to look around as we travelled up. On our ride, the wildlife was a highlight, but we wouldn't turn that into an expectation for a future visit. The landscape and the changing viewpoint were already reasons to go.
 
-## If you only have one day
+At the top, we'd allow time for the view rather than immediately check what else we could fit in. Our photos showed the autumn colour close by and the mountains stretching across the valley. It was another perspective on the same region we'd been exploring from Canmore.
 
-Make the two lakes the priority and treat the lift as optional. We wouldn't promise all three experiences in one day when shuttle waits, weather and family energy can change the pace. A shorter list enjoyed properly is a better memory than a complete list rushed through.
+![The Lake Louise viewpoint frame above the valley](/media/lake-louise-lift.jpg)
 
-## Our day-bag list
+### Keep the afternoon flexible
 
-- Booking confirmations and directions saved offline.
-- Water and enough snacks for delays.
-- Warm layers and a weatherproof outer layer.
-- Comfortable shoes, sun protection and a small rubbish bag.
-- The child essentials your family actually uses.
+We'd avoid attaching a second big excursion to the lift just because the map made it look possible. Some days with a child needed less than we'd planned, and we'd learned to accept that. A day could feel full without every hour having a separate destination.
 
-For the feeling behind the plan, read [our lakes-and-chairlift journal](/stories/lakes-and-little-moments/). For the details that make it work, keep the [booking guide](/stories/lake-louise-moraine-guide/) alongside it. One is the memory; the other is the bit that gets you there.
+If we wanted a bistro meal, we'd look at the current menu and add a separate food allowance. Our C$60 memory belonged to the Fairmont lunch, not a meal at the resort. Keeping those two stops distinct would stop us giving another family a misleading budget.
+
+## What we'd allow for the two days
+
+The worked example in our guide came to **about C$295.30** for two adults and a child aged 6–12, using the checked window rates, two paid park days and one C$60 lunch. That's a planning example using a stated age category, rather than a total from our receipts. It excludes accommodation, the journey to the area and other meals.
+
+The useful next step would be to replace those assumptions with your own. An existing park pass could reduce the total. A different child ticket category or an eligible resort discount would change it too. We'd keep a margin around food rather than arrive expecting the attraction tickets to be the only spending.
+
+## If you only had one day
+
+We'd prioritise the two lakes if those were the main reason for coming. The lift added something we really enjoyed, but combining everything could make the day much tighter. The shuttle window, the transfers and the resort's operating hours would all need to line up.
+
+That would be a choice about priorities. We used to travel with two backpacks and move constantly to see as much as possible. With our daughter, we'd become happier choosing fewer things and giving them enough time. This two-day version was how we'd bring that lesson into a return visit.
+
+For the memories behind it, read [our lakes-and-chairlift journal](/stories/lakes-and-little-moments/). For reservations and prices, keep the [booking guide](/stories/lake-louise-moraine-guide/) alongside the plan. We'd want another family to arrive with the important details sorted and enough room left to enjoy being there.
