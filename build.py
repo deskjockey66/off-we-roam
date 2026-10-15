@@ -68,4 +68,5 @@ for p in posts:
  related=''.join(card(q) for q in posts if q!=p)
  page(Path('stories')/p['slug'],p['title'],f'''<article><div class="article-heading wrap"><a class="eyebrow" href="{url(country_url(p['country']) if p.get('country') else '/destinations/')}">{esc(p.get("country", ""))} · {esc(p.get("region", ""))}</a><h1>{esc(p['title'])}</h1><p class="intro">{esc(p['summary'])}</p><p class="article-meta">{p['category']} · {p['minutes']} min read · Off We Roam</p></div><figure class="article-cover wrap"><img src="{url(p['cover'])}" alt="{esc(p['title'])}" style="object-position:{esc(p.get('cover_position','50% 50%'))}"></figure><div class="prose article-body">{rich(p['body'])}</div></article><section class="wrap stories"><p class="eyebrow">KEEP WANDERING</p><h2>A little more from this trip.</h2><div class="cards related">{related}</div></section>''',p['summary'])
 (OUT/'.nojekyll').write_text('')
+if (ROOT/'CNAME').exists(): shutil.copyfile(ROOT/'CNAME',OUT/'CNAME')
 print(f'Built {len(posts)} stories with base path {BASE!r}')
