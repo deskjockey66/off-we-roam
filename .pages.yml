@@ -1,0 +1,38 @@
+media:
+  input: media
+  output: /media
+  categories: [image]
+  rename: safe
+content:
+  - name: stories
+    label: Stories, guides and itineraries
+    type: collection
+    path: content/posts
+    fields:
+      - {name: title, label: Title, type: string, required: true}
+      - {name: category, label: Type, type: string, description: "Use Journal, Guide or Itinerary", required: true}
+      - {name: country, label: Country, type: string}
+      - {name: region, label: Region, type: string}
+      - {name: summary, label: Short introduction, type: text}
+      - {name: cover, label: Cover photo, type: image}
+      - {name: cover_position, label: 'Photo focus (example 50% 60%)', type: string}
+      - {name: date, label: Date, type: date}
+      - {name: published, label: Publish, type: boolean, default: false}
+      - {name: body, label: Article, type: rich-text}
+  - name: homepage
+    label: Homepage
+    type: file
+    path: content/homepage.yml
+    fields:
+      - {name: headline, label: Headline, type: string}
+      - {name: intro, label: Introduction, type: text}
+      - {name: hero_image, label: Hero photograph, type: image}
+      - {name: hero_position, label: Photo focus, type: string}
+      - {name: hero_note, label: Photo note, type: string}
+  - name: about
+    label: Our story
+    type: file
+    path: content/about.md
+    fields:
+      - {name: title, label: Title, type: string}
+      - {name: body, label: Story, type: rich-text}
