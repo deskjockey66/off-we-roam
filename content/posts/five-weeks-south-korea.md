@@ -1,0 +1,84 @@
+---
+title: "Five weeks in South Korea: Myeongdong, easy trains and a week in Busan"
+category: Journal
+country: South Korea
+region: Seoul & Busan
+summary: Our Seoul base in Myeongdong, shopping streets and food stops, and a week in Busan with hillside views and the coast.
+cover: /media/korea-myeongdong-at-night.jpg
+cover_position: 50% 45%
+date: '2026-10-15'
+published: true
+order: -2
+---
+
+We spent five weeks in South Korea, between Seoul and Busan. **Myeongdong was our base in Seoul**, and we spent a week in Busan, staying around the main shopping strip there. Food, shopping streets and train journeys filled much of our time. The photographs bring those parts back: restaurant signs after dark, a subway map, Seoul Station, and the houses climbing the hills in Busan.
+
+Five weeks gave us room to stay in two cities without having to change accommodation every few days. That matters on a family trip. There is the outing itself, and there is everything around it: getting ready, working out the route, finding somewhere to eat and getting back. South Korea's train networks made the moving-around part feel easy to us. Staying in Myeongdong also meant that food and shopping were part of where we were living, rather than a separate excursion every time.
+
+## Seoul, with Myeongdong as our base
+
+Myeongdong suited the kind of stay we had. We were based in one of Seoul's best-known shopping areas, with the main streets close at hand. There was plenty to look at without needing a full sightseeing plan. The appeal of staying there was having those streets outside, then using the trains when we wanted to go farther.
+
+One of my photographs is of a restaurant corner on **Myeongdong 7ga-gil**. The blue street sign is still visible above the entrance. There is a large shell over the doorway, bright menu boards, tables at the edge of the pavement and shops on the floor above. That is a better record of our Seoul base than a photograph of a hotel room. It puts the food and the street in the same frame.
+
+![Restaurant signs and tables on Myeongdong 7ga-gil after dark](/media/korea-myeongdong-at-night.jpg)
+
+Our time in Seoul included the shopping streets, but staying in Myeongdong meant we did not have to fit all the browsing into one visit. For another family planning a shorter trip, I would keep that advantage: choose a base you can enjoy on an ordinary afternoon, as well as one with a useful station.
+
+## Food was part of the reason to go out
+
+Eating was a big part of these five weeks. Myeongdong puts food alongside the shopping, so an evening around the neighbourhood can include both. The photograph above has restaurant menus covering the building. You do not need to treat food as something to squeeze in after the shops.
+
+For a family visiting for the first time, I would mix street snacks with meals where everyone can sit down. A few stalls are a good way to try different things; a chair and a proper meal are useful after hours on foot. There is no need to order a whole evening's food at the first stall.
+
+I have put together a separate **[top-five Myeongdong street-food shortlist](/stories/myeongdong-top-five-street-foods/)**: hotteok, chicken skewers, tteokbokki, cheese corn dogs and tornado potatoes. Those are suggestions for a visit, rather than a reconstructed list of every dish we ate. Start with what appeals to the people travelling with you, check the sauce and filling, and order a small amount before deciding on the next stop.
+
+## The trains made the cities easier
+
+We found the train networks easy to navigate. One of the photographs I kept is simply a station pillar with the lines and stops laid out on it. It belongs in this story because getting around was part of how the trip worked. The shopping districts and the sights could be outings from our base, without moving our bags to a different part of Seoul.
+
+![A subway route map and platform directions on a station pillar](/media/korea-subway-route-map.jpg)
+
+For another visit, my starting point would be the station, line and direction of travel. I would save the destination in a route planner, check the transfer and look at the exit before leaving the platform area. With a stroller or luggage, the lift route matters more than shaving a minute off the journey.
+
+Myeongdong has access to **Line 4 at Myeongdong Station**, while **Euljiro 1-ga on Line 2** serves the other side of the district. The best one depends on the accommodation and destination. For the longer journey between cities, book a separate intercity ticket through [KORAIL](https://www.korail.com/global/eng/main); a local transport card and a reserved KTX ticket do different jobs.
+
+![The modern Seoul Station building and its forecourt](/media/korea-seoul-station.jpg)
+
+## Seoul beyond the shopfronts
+
+The photograph of **Sungnyemun Gate** gives this part of the trip a different setting: a broad paved space, the gate's dark roof and modern buildings behind it. There is also an aquarium visit in our photographs, with fish tanks and a stroller in the passageway. Those pictures sit beside the shopping streets in our family album.
+
+![Sungnyemun Gate with modern Seoul buildings behind it](/media/korea-sungnyemun-gate.jpg)
+
+![Fish tanks beside an indoor aquarium walkway during our Korea trip](/media/korea-aquarium-walk.jpg)
+
+Another aquarium photograph has fish displayed inside red postboxes. It is the sort of detail I would otherwise forget to include when writing about a long trip. Looking back through the pictures leaves room for it alongside the larger landmarks.
+
+![Red postbox-shaped aquarium displays, including a small planted fish tank](/media/korea-aquarium-postboxes.jpg)
+
+## A week in Busan
+
+In Busan, we mainly stayed around the main shopping strip. Keeping a shopping area as our base carried over something practical from Seoul: shops and food close to where we were staying, with other parts of the city to explore from there.
+
+The **Gamcheon** photographs show a different side of that week. Houses cover the hillside, with narrow routes and steps between them. In one picture, the large Gamcheon letters sit beside a viewing area; in another, the buildings fill almost the whole view. The scale is clearer when you can see the people on the steps in the foreground.
+
+![The Gamcheon sign beside a viewing area above Busan's hillside houses](/media/korea-gamcheon-sign.jpg)
+
+![Gamcheon's closely packed houses spreading across the hills in Busan](/media/korea-gamcheon-hillside.jpg)
+
+Then there is the coastal photograph: a yellow **Haeundae Sky Capsule**, its raised track and the water beside it. Gamcheon and the coast give the Busan pictures two very different views of the city. I would keep them on separate days in a family itinerary, leaving time to get there, eat and return without crossing Busan repeatedly.
+
+![A yellow Haeundae Sky Capsule beside the water and high-rise buildings in Busan](/media/korea-busan-sky-capsule.jpg)
+
+## What I would carry into another trip
+
+I would keep the two bases, the train journeys and time for the shopping streets. Five weeks gave us more time than most families will have, but the shorter versions can keep those same ingredients. A week works well as a Seoul stay. Two weeks makes room for both cities. Three weeks lets a family spend a full week in Busan and still have unhurried days in Seoul.
+
+The plans below are the routes I would suggest, with time for meals, indoor stops and afternoons that do not need another ticket:
+
+- [One week in South Korea: a family base in Seoul](/stories/south-korea-one-week-family/)
+- [Two weeks in South Korea: Seoul and Busan](/stories/south-korea-two-weeks-family/)
+- [Three weeks in South Korea: more Seoul time and a full Busan week](/stories/south-korea-three-weeks-family/)
+
+*Practical references checked in October 2026: [Visit Seoul's Myeongdong guide](https://english.visitseoul.net/editorspicks/myeong-dong/ENNlwcnrh), [Korea Tourism Organization transport-card guidance](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663) and [KORAIL](https://www.korail.com/global/eng/main). Our photographs and memories describe our trip; operating details should be checked for your dates.*
