@@ -13,7 +13,7 @@ order: 40
 
 We had five weeks between Seoul and Busan, including a week in Busan. **With only seven days, I would stay in Seoul and use Myeongdong as the base**, as we did on our trip. That gives a family six nights in one room, with arrival and departure included in the seven days.
 
-This is a suggested shorter itinerary, not a record of the order in which we visited places. It combines our photographed stops with other family outing options. One main outing a day leaves room for meals, a slower start or a child who has had enough walking.
+This is a suggested shorter itinerary, not a record of the order in which we visited places. It brings together places we visited and other outings I would consider for a family trip. One main outing a day leaves room for meals, a slower start or a child who has had enough walking.
 
 ## Seven days, six nights, one base
 
@@ -31,7 +31,7 @@ This is a suggested shorter itinerary, not a record of the order in which we vis
 
 ![Timber beams, tiled eaves and a patterned wall on a traditional building in Seoul](/media/korea-seoul-traditional-facade.jpg)
 
-*Traditional buildings from our Seoul visit. This photograph illustrates the architecture, rather than identifies a particular palace or shopping district.*
+
 
 ## Why I would keep Myeongdong as the base
 
@@ -61,4 +61,4 @@ Insadong, Hongdae and Namdaemun give the shopping days different settings. They 
 
 For a seven-day trip I would save it for another visit. If both cities are essential, choose four nights in Seoul and two in Busan, drop several Seoul outings and arrange a flight home from Busan where practical. An intercity train day still includes packing, reaching the station, the journey and checking in. Our **[two-week itinerary](/stories/south-korea-two-weeks-family/)** gives that move more room.
 
-*Practical references checked in October 2026: [Visit Seoul](https://english.visitseoul.net/), [Myeongdong and its stations](https://english.visitseoul.net/editorspicks/myeong-dong/ENNlwcnrh), [Namdaemun Market](https://english.visitseoul.net/shopping/namdaemun-market/ENP000085), [Insadong](https://english.visitseoul.net/shopping/Insa-dong/ENP000080) and [KTO transport cards](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663). Check current admission, opening days and transport for your dates. Photographs are from our trip; this route is a proposed family plan.*
+*Practical references checked in October 2026: [Visit Seoul](https://english.visitseoul.net/), [Myeongdong and its stations](https://english.visitseoul.net/editorspicks/myeong-dong/ENNlwcnrh), [Namdaemun Market](https://english.visitseoul.net/shopping/namdaemun-market/ENP000085), [Insadong](https://english.visitseoul.net/shopping/Insa-dong/ENP000080) and [KTO transport cards](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663). Check current admission, opening days and transport for your dates. This is how I would plan a shorter family trip.*

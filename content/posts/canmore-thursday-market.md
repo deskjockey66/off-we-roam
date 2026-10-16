@@ -12,7 +12,7 @@ published: true
 order: 9
 ---
 
-A market afternoon fitted the slower side of our time in Canmore. We had been based in town for months, and outings like this belonged alongside the bigger lake trips. The photograph of the musician under the white canopy is one of ours: a guitar, people sitting outside and autumn colour with the mountains behind it. It is a different sort of Rockies memory from standing at a viewpoint, and one I wanted to keep here.
+A market afternoon fitted the slower side of our time in Canmore. We had been based in town for months, and I enjoyed being able to sit outside, listen to music and take our time. Outings like that mattered to me alongside the bigger lake trips.
 
 If you are visiting during the operating season, I would leave a Thursday partly free for the Canmore Mountain Market. You can browse without needing a whole day devoted to it, or make it the middle of a relaxed day in town. Here is what to expect and how I would fit it around a family stay.
 
@@ -38,7 +38,7 @@ For a family based in accommodation with a kitchen, I would look at what could a
 
 I would start with a lap of the food stalls. Baking and coffee make an easy small stop, while the specialty-food and local-food vendors give you more to explore. Produce and preserves are useful for taking back to the accommodation; they are a different purchase from lunch to eat straight away.
 
-The exact ready-to-eat choices depend on the week's traders. I would ask what is being served that day before promising the family a particular dish. A photo of one stall from a previous season is not a permanent menu. If you need a proper lunch rather than a snack, look at the portions and prices first, then decide whether to eat at the market or elsewhere in town.
+The exact ready-to-eat choices depend on the week's traders. I would ask what is being served that day before promising the family a particular dish. I would keep our food plans flexible because the traders can change. If you need a proper lunch rather than a snack, look at the portions and prices first, then decide whether to eat at the market or elsewhere in town.
 
 With our daughter, I would leave enough flexibility to choose something that suited her rather than make the market the only possible meal stop. For allergies or specific dietary needs, ask the individual vendor about ingredients and preparation. Different stalls have different setups.
 
@@ -46,9 +46,9 @@ Our [Canmore coffee guide](/stories/canmore-coffee/) has other options for the d
 
 ## The music is a reason to stay a little longer
 
-Live local music is part of the market, and our photograph shows the small outdoor performance setting. I would leave some time to sit and listen rather than plan to pass through only to shop. It is the sort of stop that works well on a slower town day.
+I would leave time to sit and listen to the live local music rather than only pass through to shop. That sort of stop suited the slower town days we enjoyed.
 
-The performers change. Past 2026 listings included **Mister Bird** and **Mountain Muse** on 17 September; **Kearstin Pfeifer** was listed for 23 July. These are examples of previous bookings, not an upcoming lineup. I cannot identify the performer in our photograph from those listings, so I have left the image caption unnamed.
+The performers change, so I would check the current programme before choosing a day.
 
 A September event listing advertised daytime music blocks from 11 am to 2 pm and 2.30 pm to 5.30 pm. I would use that only as an indication of how a market day has been programmed, then check the actual schedule for a future visit. Market opening hours and an individual musician's set time are different things.
 

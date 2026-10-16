@@ -17,7 +17,7 @@ These are **five recommended foods to look for**, chosen for variety and for the
 
 ## One of the foods I enjoyed in Seoul
 
-The cover photograph is from our trip: a tray of crisp fried rolls, with prawn tails visible at the ends, on foil with a wooden pick. This was one of the foods I enjoyed eating in Seoul. I have kept the description to what is in the photograph rather than attach a dish name or a stall address I cannot confirm.
+I enjoyed crisp fried rolls with prawns during our time in Seoul. Staying in Myeongdong made it easy for us to try different foods as we explored, and I would leave room for that again.
 
 The five foods below are a separate shortlist for an evening around Myeongdong.
 

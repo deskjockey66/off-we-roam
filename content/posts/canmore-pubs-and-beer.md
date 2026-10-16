@@ -26,7 +26,7 @@ I would ask what local beers are pouring and start there. The local beer option 
 
 ## Sheepdog: a good reason to look beyond the centre
 
-Sheepdog Brewing is the other notable stop I would put near the top. I would go looking for the smaller-batch choices and the niche lagers when available. The tap selection rotates, so keep an open mind rather than travelling there for a beer you saw in an old photograph online.
+Sheepdog Brewing is the other notable stop I would put near the top. I would go looking for the smaller-batch choices and the niche lagers when available. The tap selection rotates, so keep an open mind rather than counting on a particular beer being available.
 
 The Canmore taproom is at unit 112, 105 Bow Meadows Crescent. That puts it away from the main downtown strip. Plan how you will get there and back, especially if you have already spent the day driving around the mountains. It is an evening worth organising on its own terms rather than adding as a last stop when everyone is tired.
 

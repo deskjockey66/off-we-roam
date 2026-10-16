@@ -16,7 +16,7 @@ Brisbane was still home, but for a few months our everyday life had a mountain b
 
 Edlyn and I had wanted a break from the pace we had been keeping. We started our family sabbatical in February, after a conversation with family in Kelowna over Christmas helped turn a vague idea into something we actually pursued. By the time autumn arrived, the appeal of having a base was obvious. A house in Canmore gave us room to settle, and the surrounding mountains meant we could keep exploring without packing our whole life each time.
 
-Looking back through these photographs, I noticed how many were of ordinary views. A street on a walk through town. Mountains through a window. A path with the leaves turning. Those were the parts I wanted to record here, because they explained what staying longer felt like better than another list of attractions could.
+I grew to appreciate the ordinary parts of life here: walking through town, seeing the mountains from the house and noticing the leaves turning along the paths. Staying longer gave us time to enjoy those things without needing a big outing every day.
 
 ## A town we could take our time in
 
@@ -32,7 +32,7 @@ Travelling with our daughter changed what worked. We started thinking more caref
 
 Our daughter attended a local school during our stay. We are keeping its name private, but it was an important part of our time in Canmore. It meant our family life had some structure within a much bigger break from our usual routine. We were travelling, and we were also making space for the everyday things that mattered to her.
 
-I do not want to speak for her or turn her school experience into a public travel story. For us as parents, though, having that part of life in place helped us settle. The sabbatical was something we had chosen as a family, and we wanted it to work beyond the photographs and weekends away. Finding a rhythm mattered. We could enjoy being somewhere different without needing every day to feel completely unfamiliar.
+I do not want to speak for her or turn her school experience into a public travel story. For us as parents, though, having that part of life in place helped us settle. The sabbatical was something we had chosen as a family, and we wanted everyday life to work well too. Finding a rhythm mattered. We could enjoy being somewhere different without needing every day to feel completely unfamiliar.
 
 It also changed how I thought about a longer trip. There was more to organising it than deciding where we wanted to go. We had to think about how we would live once we arrived. A school day and a mountain day asked different things of us, and both belonged in the same few months. I liked that our time here had room for each of them. It made the stay feel like a chapter of family life rather than an extended sightseeing schedule.
 
@@ -66,7 +66,7 @@ There were practical reminders as well. We booked our lake tickets on 6 October 
 
 ## Autumn was part of the experience
 
-The autumn photographs were among my favourites from our stay. Golden leaves changed the feel of the walking paths, and the light on the mountains could make an ordinary view worth stopping for. I liked seeing those changes from somewhere we had been living for a while. We had enough time to notice the town feeling different as the season moved on.
+I loved autumn during our stay. Golden leaves changed the feel of the walking paths, and the light on the mountains could make an ordinary view worth stopping for. Having a base gave us time to notice the season changing.
 
 The views through the windows were part of that. They were not an attraction we had bought a ticket for or driven a long way to reach. They were simply there during our time at the house. Looking back, that was one of the things I valued about Canmore. We could have an ordinary day and still feel connected to the place around us. There did not have to be a major outing attached to it.
 
@@ -78,7 +78,7 @@ Autumn also made it clear why visitors need some flexibility. A plan that worked
 
 Being away for months meant thinking about costs beyond the big activities. We still had the everyday decisions about food and what felt worth paying for. A beautiful location did not automatically make every purchase feel like good value. I wanted our guides to reflect that, because it is the kind of information I find useful when I am planning somewhere new.
 
-At the Fairmont at Lake Louise, sandwiches and coffee came to about C$60 for us. That was a bill I remembered, and it was a useful reminder that a simple lunch at a major visitor destination could become a noticeable part of the day’s spending. It did not tell the whole story of the outing, but it belonged in the story. Families need those details alongside the photographs when they are deciding what to budget.
+At the Fairmont at Lake Louise, sandwiches and coffee came to about C$60 for us. That was a bill I remembered, and it was a useful reminder that a simple lunch at a major visitor destination could become a noticeable part of the day’s spending. It did not tell the whole story of the outing, but it belonged in the story. I would keep that cost in mind when budgeting for another visit.
 
 Around Canmore, we had our own preferences too. I thought Blondies made a great latte. Rocky Mountain Bagel Co. on Bow Valley Trail felt too expensive for what I got and did not live up to the hype for me. Those are personal opinions, and I have kept them that way in the coffee guide. I would rather explain where I would spend my own money again than pretend every stop was equally memorable.
 
@@ -88,7 +88,7 @@ Around Canmore, we had our own preferences too. I thought Blondies made a great 
 
 A few months in Canmore gave us the chance to get past the feeling that we should always be doing something. We still wanted to explore. We also wanted the break to be a break. Having a house base helped us hold on to that when there was so much nearby we could have tried to fit in.
 
-I enjoyed the freedom to return to familiar views. The photographs of the town and the mountains through the windows meant something because they were part of our everyday surroundings for a while. They brought back the feeling of being there without needing a dramatic event behind them. That was what I had hoped a journal could hold on to: the parts of a trip that were easy to forget once we started talking only about the highlights.
+I enjoyed returning to familiar places and seeing the mountains from the house. Those everyday surroundings became part of what I valued most about our stay.
 
 We came away with a better understanding of how we liked travelling as a family. Staying in one place gave us time to settle, and the weekly outings kept the sense of discovery. Our daughter had school, and we had room for the short courses. We could take a longer trip away when it suited us. That combination worked for this part of our lives, and I would happily travel that way again.
 
@@ -102,6 +102,6 @@ I would give Canmore enough time to become more than a place to sleep between ou
 
 I would also separate the things that needed booking from the things that could stay flexible. Our lake transport was worth planning early. A walk through town did not need the same treatment. That balance would be different for each family, but it helped me think more clearly about what we wanted from the stay. We were there to spend time together, and the plan needed to support that.
 
-Canmore gave us a setting for a slower version of everyday life. That was what made the months feel different from a holiday, and it was what I wanted these photographs to remember.
+Canmore gave us a setting for a slower version of everyday life. That was what made the months feel different from a holiday, and what I valued most about being there.
 
 [Plan five days in Canmore](/stories/canmore-five-days/), [take ten days](/stories/canmore-ten-days/) or [leave room for two weeks](/stories/canmore-two-weeks/).

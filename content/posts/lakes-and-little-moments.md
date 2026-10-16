@@ -39,19 +39,19 @@ That approach was useful for the lakes too. We could think about what the day ac
 
 ## Moraine Lake still deserved the anticipation
 
-The colour at Moraine Lake was the part our photographs captured most clearly. From the higher viewpoint, the mountains rose behind that deep blue water, with the trees giving the scene a scale that was hard to take in all at once. Down by the shore, the clear shallows and reflections gave us something different to look at.
+The colour at Moraine Lake stayed with me. From the higher viewpoint, I could take in the mountains and deep blue water together. Down by the shore, I enjoyed the clear shallows and reflections.
 
-I liked having both views. The wider outlook made sense of the lake in the mountains, while the shore brought the detail closer. It was easy to understand why people travelled such a long way to stand there. We had seen plenty of photographs before our own visit, but being there as the three of us gave it its own place in our memories.
+I liked having both views. The wider outlook made sense of the lake in the mountains, while the shore brought the detail closer. It was easy to understand why people travelled such a long way to stand there. Being there together gave it its own place in our memories.
 
 ![Clear shallows and mountain reflections at Moraine Lake](/media/moraine-shore.jpg)
 
-Using the Parks Canada shuttle was part of how we reached the lakes. That was worth remembering alongside the scenery, because a future visitor needed more than a saved photograph to make the same outing happen. The transport had to be arranged. Getting that detail right gave us the chance to spend our attention on the place once we arrived.
+Using the Parks Canada shuttle was part of how we reached the lakes. That was worth remembering alongside the scenery, because we needed to arrange the transport before we could enjoy the outing. The transport had to be arranged. Getting that detail right gave us the chance to spend our attention on the place once we arrived.
 
 We weren't trying to turn the visit into an ambitious hike. Travelling with our daughter had made us more conscious of what was enough for a day. The lake itself was a worthwhile experience. We could appreciate the water and the mountains without needing another activity to prove we'd made good use of the stop.
 
 ## Lake Louise, and a lunch bill worth remembering
 
-Lake Louise had a different feel in our photographs. The water was brighter, with the mountain sides drawing the view towards the snow in the distance. Small canoes made the scale easier to appreciate. After Moraine Lake, it still felt like somewhere with its own character rather than a second version of the same view.
+Lake Louise felt different to me. I loved the brighter water and the view towards the snow in the distance. After Moraine Lake, it still felt like somewhere with its own character.
 
 We bought sandwiches and coffee at the Fairmont Lake Louise, and lunch came to about **C$60**. That was one of the practical details I wanted to keep in the story. It wasn't an elaborate meal, and it was a useful reminder of how much a fairly simple food stop could add to a family outing.
 
@@ -69,7 +69,7 @@ I enjoyed that combination. At the lakes, the water drew our attention forward. 
 
 ![Autumn colour and the view across the valley from Lake Louise Resort](/media/mountain-autumn.jpg)
 
-The photographs from above the resort brought back the contrast between the golden plants, the dark trees and the distant mountains. I liked that this was another way to appreciate the same region we'd been living in for months. We could spend time in one part of the world and still find a very different perspective on it.
+Above the resort, I loved the autumn colour, the dark trees and the distant mountains. It gave me another way to enjoy the region we had been living in for months.
 
 We saw wildlife on our ride, but that was our experience rather than something another family could count on seeing. The mountain view and the ride were the things to plan for. A sighting was a welcome extra. I wouldn't want someone booking on the assumption that the animals would appear on cue.
 

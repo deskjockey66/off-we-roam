@@ -70,6 +70,6 @@ The metro gets you around the city. The **Haeundae Sky Capsule** is a separately
 
 Move back to Seoul on **day 13**, stay near a convenient onward connection and depart on day 14. That changes the night split to seven nights in Seoul first, five in Busan and one final Seoul night. Keep the international flight separate from the long intercity move where possible. Do not use the original day-13 shopping plan as well.
 
-For food ideas, use our **[Myeongdong top five](/stories/myeongdong-top-five-street-foods/)**. For more time in both cities, the **[three-week route](/stories/south-korea-three-weeks-family/)** keeps a full week in Busan. Our **[journal](/stories/five-weeks-south-korea/)** contains the memories and photographs behind these plans.
+For food ideas, use our **[Myeongdong top five](/stories/myeongdong-top-five-street-foods/)**. For more time in both cities, the **[three-week route](/stories/south-korea-three-weeks-family/)** keeps a full week in Busan. Our **[journal](/stories/five-weeks-south-korea/)** shares more about our time in Seoul and Busan.
 
 *Sources checked in October 2026: [Visit Seoul](https://english.visitseoul.net/), [KORAIL](https://www.korail.com/global/eng/main), [Visit Busan](https://www.visitbusan.net/), [KTO's Gwangbok-ro guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=264&menuSn=929&vcontsId=249910) and [Haeundae Blueline Park's ride information](https://www.bluelinepark.com/eng/information.do). Confirm current tickets, access and operating dates before booking.*

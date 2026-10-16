@@ -62,7 +62,7 @@ Calgary is a possible city-day alternative when you want a change from the mount
 
 ## Day 9: Choose one final bigger outing
 
-For a longer day, consider Yoho and Emerald Lake if the route and conditions make it sensible. This is a researched option we would consider, not a claim about a particular family visit. Start by checking Parks Canada information for Yoho and the road reports. A pretty photograph is not enough to decide whether a late-autumn day trip is suitable.
+For a longer day, consider Yoho and Emerald Lake if the route and conditions make it sensible. This is a researched option we would consider, not a claim about a particular family visit. Start by checking Parks Canada information for Yoho and the road reports. I would make the decision around the weather and road conditions.
 
 If that feels too far, return to Banff or spend the day locally. Ten days gives you permission to repeat something you enjoyed. I would rather finish with a good day than a new place chosen only to make the itinerary longer.
 

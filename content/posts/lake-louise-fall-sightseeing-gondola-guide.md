@@ -67,7 +67,7 @@ For comparison, the **family package** covers two adults and up to three childre
 
 In September, golden groundcover and yellow larches add colour beneath the grey and blue mountain walls. The weather is less predictable than in summer: a sunny base area can mean cold wind or snow higher up. Bring warm layers, a windproof jacket, sturdy shoes, water and snacks. Stay on signed paths, give wildlife lots of space, and follow any trail restrictions. Bears may be visible from the lift, but sightings are never guaranteed.
 
-For photographs, give yourself time to enjoy the ride and the summit viewpoints. Our favourite kind of stop is one where the family can linger rather than rush straight back down.
+I would give us plenty of time to enjoy the ride and the summit viewpoints. Our favourite kind of stop is one where the family can linger rather than rush straight back down.
 
 ## Can you combine it with Lake Louise or Moraine Lake?
 

@@ -12,7 +12,7 @@ published: true
 order: -1
 ---
 
-Our train photographs captured two things I would make room for again: a bento on the tray table and Mount Fuji outside the window. The practical part is buying the right ticket and reaching the right platform. Once that is sorted, the journey can be a part of the holiday you enjoy rather than a gap between the cities.
+I would make room for a bento lunch and a chance to see Mount Fuji again. I would sort out tickets and the platform first, then settle in and enjoy the journey as part of the holiday.
 
 This guide is for the **Tokaido Shinkansen between Shin-Osaka and Tokyo or Shinagawa**. Osaka Station and Shin-Osaka Station are different places. If you are based around Namba, include the journey to Shin-Osaka in the plan. In Tokyo, choose the arrival station around your onward journey rather than assuming every hotel is near Tokyo Station.
 
@@ -57,7 +57,7 @@ In an Ordinary car, D is the aisle seat beside E. In a Green car, D is the windo
 
 The mountain is around the Shin-Fuji area. I would start paying attention before reaching that stretch rather than rely on an exact minute after departure. Different trains have different stopping patterns. Cloud and visibility decide what you see, and a window booking cannot guarantee a clear view.
 
-Our photograph did catch Fuji beyond the river and buildings. That is why I would choose the same mountain side again, while leaving the weather out of the promise.
+We caught a view of Fuji beyond the river and buildings. I would choose the mountain-facing side again, knowing that visibility depends on the weather.
 
 ![Mount Fuji from our train window](/media/japan-fuji-from-train.jpg)
 
@@ -81,13 +81,13 @@ I would arrive at the station with a comfortable buffer, longer if buying ticket
 
 ## The bento is worth choosing before you board
 
-Ekiben are station bento sold for the journey. Our photographed box had several compartments, with rice and small portions arranged separately. It made a nice record of the train lunch without needing to identify the exact brand afterwards.
+Ekiben are station bento sold for the journey. I enjoyed having rice and several small portions together for our train lunch. I would allow time to choose one before boarding again.
 
-At Tokyo Station, Ekibenya Matsuri in GRANSTA Tokyo is one named option to look for, with a wide selection of station bento. Check its position inside the JR gates before making a detour; it is not a claim that our photographed lunch came from that shop.
+At Tokyo Station, I would consider Ekibenya Matsuri in GRANSTA Tokyo for its wide selection of station bento. I would check its position inside the JR gates before making a detour.
 
 Look at the station's bento shops before you commit. A mixed box can suit someone who wants variety; another traveller may prefer a simpler chicken or beef-and-rice option. At some shops you may find novelty train-shaped containers, which could be a fun choice for a child. Availability varies, so I would treat a specific box as a bonus rather than promise it in advance.
 
-For budgeting, allow roughly **¥1,000–2,000 per bento** as a starting estimate and check the shelf price. Premium boxes can cost more. That range is an allowance, not a quote for the meal in our photograph. Read ingredients and storage instructions, and buy food you actually want to eat rather than choose only for the packaging.
+For budgeting, I would allow roughly **¥1,000–2,000 per bento** as a starting estimate and check the shelf price. Premium boxes can cost more. I would read the ingredients and storage instructions before choosing.
 
 Take drinks aboard too. Ordinary-car onboard food sales are not something to rely on for this route. Eating at the tray table is normal on the Shinkansen, but keep the seat and surrounding area tidy and avoid noisy calls or audio that other passengers have to listen to.
 

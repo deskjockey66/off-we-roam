@@ -12,9 +12,9 @@ published: true
 order: -2
 ---
 
-The museum in our photograph is **Cup Noodles Museum Yokohama**, in the Minato Mirai waterfront area. If you have been calling it the ramen museum, check the name before buying tickets. Shin-Yokohama Ramen Museum is a separate attraction with a different location and ticket system. This guide covers the instant-noodle museum we visited.
+We visited **Cup Noodles Museum Yokohama**, in the Minato Mirai waterfront area. I would double-check the name before buying tickets: Shin-Yokohama Ramen Museum is a separate attraction with a different location and ticket system.
 
-Our photograph shows the My CUPNOODLES Factory activity area. For a return visit, I would sort out the activity arrangements before making the rest of the Yokohama day too rigid. Getting into the building and getting the activity time you want are separate matters.
+We spent time in the My CUPNOODLES Factory area. For a return visit, I would sort out the activity arrangements before making the rest of the Yokohama day too rigid. Admission and activity times need separate attention.
 
 ## What you go there for
 
@@ -22,7 +22,7 @@ The museum tells the story of instant noodles and Momofuku Ando, alongside hands
 
 The two factory names are worth learning before you book. **My CUPNOODLES Factory** is the custom-cup experience. **Chicken Ramen Factory** is a longer noodle-making workshop. They have different arrangements, and paying for one does not mean you have automatically booked the other.
 
-At the custom-cup activity, you decorate the cup and choose from the available soup and topping options. Staff handle parts of the packing process. Check the current ingredient choices on the day. I would not promise a child one exact topping based on an older photograph.
+At the custom-cup activity, you decorate the cup and choose from the available soup and topping options. Staff handle parts of the packing process. Check the current ingredient choices on the day. I would check what was available before promising our daughter a particular topping.
 
 ## Current prices to plan with
 
@@ -61,7 +61,7 @@ The usual published hours are **10 am to 6 pm, with last museum admission at 5 p
 
 NOODLES BAZAAR offers smaller noodle servings, so it can work for trying a few choices rather than committing to one large bowl. Check the day's menu and ingredients. I would make the food decision around the activity time rather than miss a slot because lunch took longer than expected.
 
-We also have a photograph from Yokohama Chinatown. It makes a useful separate part of a Yokohama day if you want to keep exploring after the museum. Leave time to get there, and choose whether you actually want another meal or just a look around. There is no need to schedule two full lunches because both appear in a guide.
+We also explored Yokohama Chinatown. I would leave time for it after the museum if we wanted to keep exploring, allowing for the journey between them and deciding where we wanted to eat.
 
 ![Yokohama Chinatown during our Japan trip](/media/yokohama-chinatown.jpg)
 

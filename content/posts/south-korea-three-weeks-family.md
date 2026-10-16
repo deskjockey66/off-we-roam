@@ -13,7 +13,7 @@ order: 42
 
 Our South Korea trip lasted five weeks. We stayed in Myeongdong in Seoul and spent a week in Busan, mainly around the shopping strip there. **With three weeks, I would keep a full Busan week and use the remaining time for Seoul**, rather than add several more hotel changes.
 
-This is a proposed family itinerary, combining our photographed stops with additional things to do. It allows **twenty nights across twenty-one days**: twelve nights in Seoul, seven in Busan, then a final Seoul night before departure. That final night suits a return flight from the Seoul area. If you can fly home from Busan, keep the last night there instead.
+This is a proposed family itinerary, bringing together places we visited and additional outings I would consider. It allows **twenty nights across twenty-one days**: twelve nights in Seoul, seven in Busan, then a final Seoul night before departure. That final night suits a return flight from the Seoul area. If you can fly home from Busan, keep the last night there instead.
 
 ## First twelve days: a Seoul base in Myeongdong
 
@@ -38,13 +38,13 @@ The spare days are intentional. I would move the outdoor outings around the fore
 
 ### Traditional buildings from our Seoul visit
 
-Our photographs also include tiled rooftops, exposed timber beams and lattice doors. One looks across the roofs towards the green hills; another shows low tables and floor cushions beneath a timber roof. These are details from the Seoul we visited, alongside the shopping streets and station buildings.
+I enjoyed taking in Seoul's traditional architecture alongside the shopping streets. I would leave time for those quieter surroundings on a return trip.
 
 ![Traditional tiled rooftops with wooded hills behind them in Seoul](/media/korea-seoul-tiled-rooftops.jpg)
 
 ![Exposed timber beams, lattice doors, low tables and floor cushions in a traditional Seoul interior](/media/korea-seoul-timber-interior.jpg)
 
-I would leave time to look at the buildings during a walk rather than add another distant attraction. The photographs are from our Seoul visit; they do not identify a particular stop on the suggested route above.
+I would leave time to appreciate the buildings during a walk rather than add another distant attraction.
 
 ## Day 13: the move to Busan
 
@@ -67,7 +67,7 @@ We mainly stayed around the shopping strip during our Busan week. For a new book
 
 ### Give Gamcheon a shorter route
 
-The hillside is visible in our photographs, and it affects the visit. There are slopes and stairs, with homes among the visitor routes. I would use a bus or taxi for the uphill approach as appropriate, choose a manageable section and keep voices down near houses. Follow the marked access and respect private lanes. It is not a place to assume a stroller can go everywhere.
+I would plan for slopes and stairs at Gamcheon, with homes among the visitor routes. I would use a bus or taxi for the uphill approach as appropriate, choose a manageable section and keep voices down near houses. I would follow marked access and avoid assuming a stroller could go everywhere.
 
 ### Book the coastal ride deliberately
 
@@ -87,6 +87,6 @@ The trains were one of the easy parts of our own trip. For a family following th
 
 For meals, give the street-food evenings a place alongside seated lunches and dinners. Use our **[top-five Myeongdong food guide](/stories/myeongdong-top-five-street-foods/)** as a shortlist, buying one or two things at a time. Staying in one district gives you another evening to try something else.
 
-Read **[our five-week journal](/stories/five-weeks-south-korea/)** for the trip photographs, or use the **[one-week](/stories/south-korea-one-week-family/)** and **[two-week](/stories/south-korea-two-weeks-family/)** plans if your available time is shorter.
+Read **[our five-week journal](/stories/five-weeks-south-korea/)** for more about our time in Seoul and Busan, or use the **[one-week](/stories/south-korea-one-week-family/)** and **[two-week](/stories/south-korea-two-weeks-family/)** plans if your available time is shorter.
 
 *Practical references checked in October 2026: [Visit Seoul](https://english.visitseoul.net/), [KTO transport cards](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663), [KORAIL](https://www.korail.com/global/eng/main), [Visit Busan](https://www.visitbusan.net/) and [Haeundae Blueline Park](https://www.bluelinepark.com/eng/information.do). Recheck opening dates, access and ticket conditions before fixing your own schedule.*

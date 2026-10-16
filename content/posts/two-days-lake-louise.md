@@ -38,11 +38,11 @@ Our aim would be to begin the outing without turning the reservation into a race
 
 We'd happily see Moraine Lake first, but the first journey would follow the destination actually booked. If that were Lake Louise, we'd reverse this part of the plan. There was no benefit in writing a beautiful itinerary that didn't match the ticket we could use.
 
-At Moraine Lake, we'd leave room to appreciate the outlook and the shore without promising a particular hike. Our photographs captured both the broad mountain view and the clear shallows. They were different ways of looking at the same place, and enough to make the stop feel worthwhile.
+At Moraine Lake, we'd leave room for both the broad outlook and the clear shallows along the shore. I'd keep the visit relaxed rather than commit us to a particular hike.
 
 ![Mountain reflections and the clear water at Moraine Lake](/media/moraine-shore.jpg)
 
-The higher viewpoint involved uneven ground and steps. We'd judge it against the conditions and what was suitable for our daughter that day. Being there mattered more to us than insisting on a particular photograph if the route didn't suit.
+The higher viewpoint involved uneven ground and steps. We'd judge it against the conditions and what was suitable for our daughter that day. I'd choose a route that suited our daughter and the conditions on the day.
 
 ### Use the connector without crowding the middle of the day
 
@@ -70,7 +70,7 @@ The family memory behind this part of the plan was riding up towards the bistro 
 
 We'd leave time to look around as we travelled up. On our ride, the wildlife was a highlight, but we wouldn't turn that into an expectation for a future visit. The landscape and the changing viewpoint were already reasons to go.
 
-At the top, we'd allow time for the view rather than immediately check what else we could fit in. Our photos showed the autumn colour close by and the mountains stretching across the valley. It was another perspective on the same region we'd been exploring from Canmore.
+At the top, we'd allow time to enjoy the autumn colour and mountains across the valley. I'd linger there before thinking about another stop.
 
 ![The Lake Louise viewpoint frame above the valley](/media/lake-louise-lift.jpg)
 

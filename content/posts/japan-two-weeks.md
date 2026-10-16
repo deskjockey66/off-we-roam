@@ -69,4 +69,4 @@ Reserve the important activity first, then move the flexible days around it. Cup
 
 These plans assume arriving in the Osaka area and leaving from the Tokyo area. If your flights require returning to Osaka, add the second train journey and the time it takes. I would not silently squeeze that return into an already full departure day. International flights and accommodation prices depend on your actual dates, so they are not hidden inside a made-up total here.
 
-[Read our four-week Japan journal](/stories/four-weeks-japan/) for the photographs behind this collection.
+[Read our four-week Japan journal](/stories/four-weeks-japan/) for more about our time there.
