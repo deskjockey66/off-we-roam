@@ -7,13 +7,16 @@ button.addEventListener('click',()=>{const open=button.getAttribute('aria-expand
 menus.forEach(menu=>{
  menu.addEventListener('pointerenter',()=>{if(fine.matches){menus.forEach(other=>{if(other!==menu)other.open=false});menu.open=true}});
  menu.addEventListener('pointerleave',()=>{if(fine.matches&&!menu.contains(document.activeElement))menu.open=false});
- menu.addEventListener('focusout',e=>{if(!menu.contains(e.relatedTarget))menu.open=false});
+ // Touch browsers can blur the summary before delivering a link tap.
+ menu.addEventListener('focusout',e=>{if(fine.matches&&e.relatedTarget&&!menu.contains(e.relatedTarget))menu.open=false});
  menu.addEventListener('keydown',e=>{if(e.key==='Escape'){e.stopPropagation();menu.open=false;menu.querySelector('summary').focus()}});
  menu.addEventListener('toggle',()=>{if(menu.open)menus.forEach(other=>{if(other!==menu)other.open=false})});
 });
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeMenu();if(getComputedStyle(button).display!=='none')button.focus()}});
 document.addEventListener('click',e=>{if(!e.target.closest('header'))closeMenu();else menus.forEach(menu=>{if(!menu.contains(e.target))menu.open=false})});
-nav.addEventListener('click',e=>{if(e.target.closest('a'))closeMenu()});
+// Keep the tapped link visible until the browser completes its native navigation.
+// Reset restored pages too, so Back never leaves an old mobile menu expanded.
+window.addEventListener('pageshow',closeMenu);
 
 // Reset transient navigation when switching between phone and desktop layouts.
 const compact=window.matchMedia('(max-width: 1000px), (hover: none)');
