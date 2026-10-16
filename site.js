@@ -1,7 +1,7 @@
 const button=document.querySelector('.menu');
 const nav=document.querySelector('#navigation');
 const menus=[...nav.querySelectorAll('.nav-drop')];
-const fine=window.matchMedia('(hover: hover) and (pointer: fine)');
+const fine=window.matchMedia('(min-width: 1001px) and (hover: hover) and (pointer: fine)');
 function closeMenu(){button.setAttribute('aria-expanded','false');nav.classList.remove('open');menus.forEach(menu=>menu.open=false)}
 button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';if(!open)closeMenu();else{button.setAttribute('aria-expanded','true');nav.classList.add('open')}});
 menus.forEach(menu=>{
@@ -14,3 +14,7 @@ menus.forEach(menu=>{
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeMenu();if(getComputedStyle(button).display!=='none')button.focus()}});
 document.addEventListener('click',e=>{if(!e.target.closest('header'))closeMenu();else menus.forEach(menu=>{if(!menu.contains(e.target))menu.open=false})});
 nav.addEventListener('click',e=>{if(e.target.closest('a'))closeMenu()});
+
+// Reset transient navigation when switching between phone and desktop layouts.
+const compact=window.matchMedia('(max-width: 1000px), (hover: none)');
+compact.addEventListener('change',closeMenu);
