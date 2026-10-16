@@ -40,6 +40,17 @@ At approximately **2,101 metres (6,893 feet)**, the main attraction is the broad
 
 Allow **two to three hours** for a relaxed family outing, including the ride, photos and time at the top. The lift ride itself is an activity, even if you decide not to hike.
 
+<div class="guide-clips">
+  <figure>
+    <img loading="lazy" decoding="async" src="/media/lake-louise-summit-walk.gif" width="480" height="853" alt="A walker on a gravel path above the forest, with mountain views across the Lake Louise valley">
+    <figcaption>A little time on the paths at the top, with the valley opening out below.</figcaption>
+  </figure>
+  <figure>
+    <img loading="lazy" decoding="async" src="/media/lake-louise-valley-panorama.gif" width="480" height="853" alt="An autumn panorama of forest and layered Rocky Mountain peaks beneath moving clouds">
+    <figcaption>Forest, autumn groundcover and layers of Rocky Mountain peaks from our visit.</figcaption>
+  </figure>
+</div>
+
 ## How much for a family of three?
 
 These are the resort's **2026 sightseeing rates in Canadian dollars**, before any applicable taxes. The third person's age changes the price.

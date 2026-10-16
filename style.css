@@ -19,3 +19,10 @@ nav{align-items:center;position:relative;gap:22px}.nav-drop{position:relative}su
  #navigation .dropdown a{min-height:44px;padding:12px 0;white-space:normal;overflow-wrap:anywhere;font-size:16px}
  #navigation .dropdown-country{padding-top:14px}
 }
+
+/* Original portrait clips in the Lake Louise sightseeing guide. */
+.prose .guide-clips{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:30px 0}
+.prose .guide-clips figure{min-width:0;margin:0}
+.prose .guide-clips img{display:block;width:100%;height:auto;margin:0;aspect-ratio:480/853}
+.prose .guide-clips figcaption{margin-top:10px;font-size:14px;line-height:1.6;color:var(--muted)}
+@media(max-width:480px){.prose .guide-clips{grid-template-columns:1fr;gap:24px}}
