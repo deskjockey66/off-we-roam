@@ -34,17 +34,23 @@ This is a proposed family itinerary, combining our photographed stops with addit
 
 The spare days are intentional. I would move the outdoor outings around the forecast, put museum and palace visits on their open days, and leave room to repeat a successful outing. A family does not need a new attraction every morning to make a longer stay worthwhile.
 
-![Sungnyemun Gate with the city around it](/media/korea-sungnyemun-gate.jpg)
-
 ![An indoor aquarium stop in our South Korea photographs](/media/korea-aquarium-walk.jpg)
+
+### Traditional buildings from our Seoul visit
+
+Our photographs also include tiled rooftops, exposed timber beams and lattice doors. One looks across the roofs towards the green hills; another shows low tables and floor cushions beneath a timber roof. These are details from the Seoul we visited, alongside the shopping streets and station buildings.
+
+![Traditional tiled rooftops with wooded hills behind them in Seoul](/media/korea-seoul-tiled-rooftops.jpg)
+
+![Exposed timber beams, lattice doors, low tables and floor cushions in a traditional Seoul interior](/media/korea-seoul-timber-interior.jpg)
+
+I would leave time to look at the buildings during a walk rather than add another distant attraction. The photographs are from our Seoul visit; they do not identify a particular stop on the suggested route above.
 
 ## Day 13: the move to Busan
 
 Reserve a **Seoul Station–Busan Station** train through [KORAIL](https://www.korail.com/global/eng/main), choosing the service, seats and passenger ages for your group. Check the duration shown for that departure rather than relying on a single generic journey time. A local metro card does not replace this ticket.
 
 Allow time at both ends. The day includes checking out, reaching Seoul Station, finding the train, travelling, reaching the Busan hotel and checking in. I would keep the evening for a meal and a walk near the room.
-
-![Seoul Station and the paved area outside](/media/korea-seoul-station.jpg)
 
 ## Days 14–19: a week in Busan without changing hotels
 
@@ -59,8 +65,6 @@ Allow time at both ends. The day includes checking out, reaching Seoul Station, 
 
 We mainly stayed around the shopping strip during our Busan week. For a new booking, I would compare **Nampo/Gwangbok-ro** for markets and shopping with **Seomyeon** for metro connections. Either can work as a single base; check the real door-to-station walk and room setup. Neither puts all the coastal stops within walking distance.
 
-![Gamcheon's hillside houses from our Busan visit](/media/korea-gamcheon-hillside.jpg)
-
 ### Give Gamcheon a shorter route
 
 The hillside is visible in our photographs, and it affects the visit. There are slopes and stairs, with homes among the visitor routes. I would use a bus or taxi for the uphill approach as appropriate, choose a manageable section and keep voices down near houses. Follow the marked access and respect private lanes. It is not a place to assume a stroller can go everywhere.
@@ -68,8 +72,6 @@ The hillside is visible in our photographs, and it affects the visit. There are 
 ### Book the coastal ride deliberately
 
 The **Sky Capsule** runs between **Mipo and Cheongsapo** and is separate from the metro. Reserve the correct departure station, check the entry window and leave time for waiting. Decide how to return before starting. The **Beach Train** is a different product; check the ticket you buy rather than assuming the capsule includes a return train.
-
-![The coastal Sky Capsule and the water beside the raised track](/media/korea-busan-sky-capsule.jpg)
 
 ## Days 20–21: return and fly home
 

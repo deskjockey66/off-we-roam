@@ -4,8 +4,8 @@ category: Itinerary
 country: South Korea
 region: Seoul & Busan
 summary: Seven nights in Seoul and six in Busan, with shopping, food, a palace, Gamcheon and time on the coast.
-cover: /media/korea-gamcheon-hillside.jpg
-cover_position: 50% 55%
+cover: /media/korea-gamcheon-sign.jpg
+cover_position: 50% 50%
 date: '2026-10-15'
 published: true
 order: 41
@@ -37,8 +37,6 @@ This is a suggested family route built from our trip and additional outing ideas
 
 Swap these days to match opening calendars. I would not put a fixed rail departure directly after a long sightseeing morning.
 
-![The Myeongdong restaurant streets where we stayed in Seoul](/media/korea-myeongdong-at-night.jpg)
-
 ## Day 8: Seoul to Busan by train
 
 Book the **Seoul Station–Busan Station** journey through [KORAIL's official booking site](https://www.korail.com/global/eng/main). Select the correct dates and child categories and check the actual train's journey time. Reserve seats together where available. Do not assume a Tmoney card buys or reserves a KTX seat.
@@ -58,8 +56,6 @@ I would have breakfast, check out and make the station the main job of the morni
 | 13 | Repeat a favourite area or keep the day for shopping near the accommodation. | A spare day absorbs rain, tired legs and anything missed earlier. Pack before dinner. |
 | 14 | Check out and depart from Busan. | Match the transfer to the actual airport and flight time. |
 
-![Gamcheon's sign and hillside viewpoint from our visit](/media/korea-gamcheon-sign.jpg)
-
 ## Choosing a Busan base
 
 We stayed around the main shopping strip. For this suggested route, I would compare **Nampo/Gwangbok-ro**, useful for the older shopping and market districts, with **Seomyeon**, a central metro connection. Those are proposed bases, not the name of our own hotel or a claim about its exact street.
@@ -69,8 +65,6 @@ Choose one hotel and accept that the coast is a separate outing. Check the walk 
 ## Two different kinds of train in Busan
 
 The metro gets you around the city. The **Haeundae Sky Capsule** is a separately ticketed sightseeing ride between **Mipo and Cheongsapo**. The operator lists a journey of about thirty minutes, with the reservation covering an entry window rather than a guaranteed departure minute. Book the correct starting station and work out the return journey separately. The Beach Train is another service with its own ticket arrangements.
-
-![A yellow Sky Capsule on the raised coastal track in Busan](/media/korea-busan-sky-capsule.jpg)
 
 ## If your flight leaves from Seoul
 

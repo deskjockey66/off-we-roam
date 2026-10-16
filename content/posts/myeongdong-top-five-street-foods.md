@@ -4,8 +4,8 @@ category: Guide
 country: South Korea
 region: Myeongdong, Seoul
 summary: A family shortlist of sweet pancakes, chicken skewers, rice cakes, cheese corn dogs and spiral potatoes around our Seoul base.
-cover: /media/korea-myeongdong-at-night.jpg
-cover_position: 50% 42%
+cover: /media/korea-seoul-fried-rolls.jpg
+cover_position: 50% 65%
 date: '2026-10-15'
 published: true
 order: 40
@@ -15,9 +15,11 @@ order: 40
 
 These are **five recommended foods to look for**, chosen for variety and for the way they fit into a short walk between shops. It is a food shortlist, rather than a ranking of individual vendors or a claim that we tasted every version. Stalls move, menus change and the best choice on the evening is something freshly prepared that your family wants to eat.
 
-![The restaurant corner on Myeongdong 7ga-gil during our trip](/media/korea-myeongdong-at-night.jpg)
+## One of the foods I enjoyed in Seoul
 
-*Our photograph shows the neighbourhood where we stayed. It is a restaurant street scene, rather than a photograph of the five snacks below.*
+The cover photograph is from our trip: a tray of crisp fried rolls, with prawn tails visible at the ends, on foil with a wooden pick. This was one of the foods I enjoyed eating in Seoul. I have kept the description to what is in the photograph rather than attach a dish name or a stall address I cannot confirm.
+
+The five foods below are a separate shortlist for an evening around Myeongdong.
 
 ## 1. Hotteok — a sweet pancake
 

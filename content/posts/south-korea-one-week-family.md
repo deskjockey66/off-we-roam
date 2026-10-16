@@ -29,7 +29,9 @@ This is a suggested shorter itinerary, not a record of the order in which we vis
 
 **Reorder days for actual opening dates and weather.** A palace closure belongs on a different day, and a wet day can become the indoor outing. Check the attraction's current calendar before attaching bookings to the table.
 
-![Sungnyemun Gate from our time in Seoul](/media/korea-sungnyemun-gate.jpg)
+![Timber beams, tiled eaves and a patterned wall on a traditional building in Seoul](/media/korea-seoul-traditional-facade.jpg)
+
+*Traditional buildings from our Seoul visit. This photograph illustrates the architecture, rather than identifies a particular palace or shopping district.*
 
 ## Why I would keep Myeongdong as the base
 
@@ -54,8 +56,6 @@ The airport transfer is a separate route-planning decision. Check your airport, 
 Use the **[Myeongdong top-five street-food guide](/stories/myeongdong-top-five-street-foods/)** for one or two evening walks. I would choose a savoury snack and a sweet one between us, then see whether everyone wants more. Keep a seated meal in the plan rather than relying on a line of food carts to provide everything a child wants for dinner.
 
 Insadong, Hongdae and Namdaemun give the shopping days different settings. They are options to explore at your family's pace, not three districts to complete in one afternoon. Choose a few streets and a meal stop, then go back when the outing has run its course.
-
-![A station route map photographed during our Korea trip](/media/korea-subway-route-map.jpg)
 
 ## If you want Busan too
 

@@ -11,7 +11,7 @@ published: true
 order: -2
 ---
 
-We spent five weeks in South Korea, between Seoul and Busan. **Myeongdong was our base in Seoul**, and we spent a week in Busan, staying around the main shopping strip there. Food, shopping streets and train journeys filled much of our time. The photographs bring those parts back: restaurant signs after dark, a subway map, Seoul Station, and the houses climbing the hills in Busan.
+We spent five weeks in South Korea, between Seoul and Busan. **Myeongdong was our base in Seoul**, and we spent a week in Busan, staying around the main shopping strip there. Food, shopping streets and train journeys filled much of our time. The photographs bring those parts back: restaurant signs after dark, a subway map and the houses climbing the hills in Busan.
 
 Five weeks gave us room to stay in two cities without having to change accommodation every few days. That matters on a family trip. There is the outing itself, and there is everything around it: getting ready, working out the route, finding somewhere to eat and getting back. South Korea's train networks made the moving-around part feel easy to us. Staying in Myeongdong also meant that food and shopping were part of where we were living, rather than a separate excursion every time.
 
@@ -21,13 +21,13 @@ Myeongdong suited the kind of stay we had. We were based in one of Seoul's best-
 
 One of my photographs is of a restaurant corner on **Myeongdong 7ga-gil**. The blue street sign is still visible above the entrance. There is a large shell over the doorway, bright menu boards, tables at the edge of the pavement and shops on the floor above. That is a better record of our Seoul base than a photograph of a hotel room. It puts the food and the street in the same frame.
 
-![Restaurant signs and tables on Myeongdong 7ga-gil after dark](/media/korea-myeongdong-at-night.jpg)
-
 Our time in Seoul included the shopping streets, but staying in Myeongdong meant we did not have to fit all the browsing into one visit. For another family planning a shorter trip, I would keep that advantage: choose a base you can enjoy on an ordinary afternoon, as well as one with a useful station.
 
 ## Food was part of the reason to go out
 
 Eating was a big part of these five weeks. Myeongdong puts food alongside the shopping, so an evening around the neighbourhood can include both. The photograph above has restaurant menus covering the building. You do not need to treat food as something to squeeze in after the shops.
+
+One of the foods I enjoyed in Seoul was a tray of crisp fried rolls. The photograph shows the golden wrappers and prawn tails, served on foil with a wooden pick. That food photograph now opens the [Myeongdong food guide](/stories/myeongdong-top-five-street-foods/).
 
 For a family visiting for the first time, I would mix street snacks with meals where everyone can sit down. A few stalls are a good way to try different things; a chair and a proper meal are useful after hours on foot. There is no need to order a whole evening's food at the first stall.
 
@@ -43,15 +43,9 @@ For another visit, my starting point would be the station, line and direction of
 
 Myeongdong has access to **Line 4 at Myeongdong Station**, while **Euljiro 1-ga on Line 2** serves the other side of the district. The best one depends on the accommodation and destination. For the longer journey between cities, book a separate intercity ticket through [KORAIL](https://www.korail.com/global/eng/main); a local transport card and a reserved KTX ticket do different jobs.
 
-![The modern Seoul Station building and its forecourt](/media/korea-seoul-station.jpg)
-
 ## Seoul beyond the shopfronts
 
 The photograph of **Sungnyemun Gate** gives this part of the trip a different setting: a broad paved space, the gate's dark roof and modern buildings behind it. There is also an aquarium visit in our photographs, with fish tanks and a stroller in the passageway. Those pictures sit beside the shopping streets in our family album.
-
-![Sungnyemun Gate with modern Seoul buildings behind it](/media/korea-sungnyemun-gate.jpg)
-
-![Fish tanks beside an indoor aquarium walkway during our Korea trip](/media/korea-aquarium-walk.jpg)
 
 Another aquarium photograph has fish displayed inside red postboxes. It is the sort of detail I would otherwise forget to include when writing about a long trip. Looking back through the pictures leaves room for it alongside the larger landmarks.
 
@@ -61,15 +55,11 @@ Another aquarium photograph has fish displayed inside red postboxes. It is the s
 
 In Busan, we mainly stayed around the main shopping strip. Keeping a shopping area as our base carried over something practical from Seoul: shops and food close to where we were staying, with other parts of the city to explore from there.
 
-The **Gamcheon** photographs show a different side of that week. Houses cover the hillside, with narrow routes and steps between them. In one picture, the large Gamcheon letters sit beside a viewing area; in another, the buildings fill almost the whole view. The scale is clearer when you can see the people on the steps in the foreground.
-
-![The Gamcheon sign beside a viewing area above Busan's hillside houses](/media/korea-gamcheon-sign.jpg)
+The **Gamcheon** hillside shows a different side of that week. Houses cover the slopes, with narrow routes and steps between them. In the photograph below, the buildings fill almost the whole view. The people on the steps in the foreground give a sense of the scale.
 
 ![Gamcheon's closely packed houses spreading across the hills in Busan](/media/korea-gamcheon-hillside.jpg)
 
-Then there is the coastal photograph: a yellow **Haeundae Sky Capsule**, its raised track and the water beside it. Gamcheon and the coast give the Busan pictures two very different views of the city. I would keep them on separate days in a family itinerary, leaving time to get there, eat and return without crossing Busan repeatedly.
-
-![A yellow Haeundae Sky Capsule beside the water and high-rise buildings in Busan](/media/korea-busan-sky-capsule.jpg)
+The coast was another part of our Busan visit. Our photograph of a yellow **Haeundae Sky Capsule**, its raised track and the water beside it opens the [three-week itinerary](/stories/south-korea-three-weeks-family/). Gamcheon and the coast give the Busan pictures two very different views of the city. I would keep them on separate days in a family itinerary, leaving time to get there, eat and return without crossing Busan repeatedly.
 
 ## What I would carry into another trip
 
